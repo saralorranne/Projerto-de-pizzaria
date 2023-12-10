@@ -1,2 +1,2 @@
-# Projerto-de-pizzaria
+# Projerto de pizzaria
 Cadastros 
